@@ -1,0 +1,19 @@
+{   "profile":[{
+    "img":"giet1.jpg",
+    "name":"mukesh",
+    "pin":"541",
+    "branch":"cse"
+},
+{
+    "img":"giet2.jpg",
+    "name":"mukesh1",
+    "pin":"540",
+    "branch":"cse"
+},
+{
+    "img":"giet2.jpg",
+    "name":"mukesh2",
+    "pin":"544",
+    "branch":"cse"
+}]
+}

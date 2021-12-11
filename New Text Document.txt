@@ -1,0 +1,21 @@
+var heading=document.createElement("h1");
+heading.textContent="JAVASCRIPT";
+heading;
+<h1>​JAVASCRIPT​</h1>​
+heading.textContent="WORKSHOP";
+heading;
+<h1>​WORKSHOP​</h1>​
+
+
+
+var div=document.createElement("div");
+var h1=document.createElement("h1");
+h1.textContent="mukeshe";
+div.appendChild(h1);
+<h1>​mukeshe​</h1>​
+div
+<div>​<h1>​mukeshe​</h1>​</div>​
+
+div.classList.add("mukesh","venkat","kamalesh");
+div.setAttribute("class","divdata");
+div.setAttribute("id","hello");
